@@ -1,11 +1,10 @@
-# SoftUni
+# SoftUni 
 SoftUni Courses
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses">[logo]<a/>
 
 [logo]: https://github.com/AniSoft/SoftUni/blob/main/Pictures/SoftUni-Logo-Flat.png "SoftUni-Logo-Flat"
 
-<br/>
 <br/>
 <br/>
 

@@ -9,7 +9,7 @@
 |**Course**|**Exercise**|**Certificate**| 
 |---|---|---|
 |<a href="https://softuni.bg/trainings/courses" > **[ Entry Module ]** </a>|  
-|<a href="https://softuni.bg/"> - Programming Basics - Go </a>|<a href="https://github.com/AniSoft/SoftUni"> Exercises </a>|<a href="https://softuni.bg/certificates/"> Link</a>|
+|<a href="https://softuni.bg/"> - Programming Basics - Go </a>|<a href="https://github.com/AniSoft/SoftUni"> Exercises </a>|<a href="https://softuni.bg/certificates/" target="_blank"> Link</a>|
 |<a href="https://softuni.bg/"> - Programming Basics - JavaScript </a>|<a href="https://github.com/AniSoft/SoftUni"> Exercises </a>|<a href="https://softuni.bg/certificates/"> Link </a>|
 |<a href="https://softuni.bg/"> - Programming Basics - Python </a>|<a href="https://github.com/AniSoft/SoftUni"> Exercises </a>|<a href="https://softuni.bg/certificates/"> Link </a>| 
 |<a href="https://softuni.bg/trainings/courses" > **[ Fundamentals Module ]** </a>|  

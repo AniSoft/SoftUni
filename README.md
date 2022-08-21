@@ -11,7 +11,7 @@
 |**Course**|**Exercise**|**Certificate**| 
 |---|---|---|
 |<a href="https://softuni.bg/trainings/courses" > **[ Entry Module ]** </a>|  
-|<a href="https://softuni.bg/"> - Programming Basics - Go </a>|<a href="https://github.com/AniSoft/SoftUni"> Exercises </a>|<a href="https://softuni.bg/certificates/details/127959/6f2906c2"> Link</a>|
+|<a href="https://softuni.bg/"> - Programming Basics - Go </a>|<a href="https://github.com/AniSoft/SoftUni/tree/main/Go/01.Go-Basic-February-2022"> Exercises </a>|<a href="https://softuni.bg/certificates/details/127959/6f2906c2"> Link</a>|
 |<a href="https://softuni.bg/"> - Programming Basics - JavaScript </a>|<a href="https://github.com/AniSoft/SoftUni"> Exercises </a>|<a href="https://softuni.bg/certificates/details/102192/fce688e6"> Link </a>|
 |<a href="https://softuni.bg/"> - Programming Basics - Python </a>|<a href="https://github.com/AniSoft/SoftUni"> Exercises </a>|<a href="https://softuni.bg/certificates/details/71973/ac18edc1"> Link </a>| 
 |<a href="https://softuni.bg/trainings/courses" > **[ Fundamentals Module ]** </a>|  

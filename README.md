@@ -1,8 +1,8 @@
 # SoftUni
 
-<a href="https://softuni.bg/trainings/courses" rel="Courses">![SoftUni Logo][logo]<a/>
+<br/>
 
-<a href="http://anidigit.com" target="_blank">AniDigit</a>  
+<a href="https://softuni.bg/trainings/courses" rel="Courses">![SoftUni Logo][logo]<a/>
 
 [logo]: https://github.com/AniSoft/SoftUni/blob/main/Pictures/SoftUni-Logo-Flat.png "SoftUni-Logo-Flat"
 

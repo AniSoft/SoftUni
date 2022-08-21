@@ -42,4 +42,4 @@
 |<a href="https://softuni.bg/" > - Soft Skills: Personal Business Skills </a>|<a href="https://github.com/AniSoft/SoftUni"> Exercises </a>|<a href="https://softuni.bg/certificates/"> Link </a>|
 |<a href="https://softuni.bg/" > - Agile Software Development </a>|<a href="https://github.com/AniSoft/SoftUni"> Exercises </a>|<a href="https://softuni.bg/certificates/"> Link </a>|
 |<a href="https://softuni.bg/" > - Introduction to e-Commerce </a>|<a href="https://github.com/AniSoft/SoftUni"> Exercises </a>|<a href="https://softuni.bg/certificates/"> Link </a>|
-|<a href="https://softuni.bg/" > - Fundamentals in Mathematics </a>|<a href="https://github.com/AniSoft/SoftUni"> Exercises </a>|<a href="https://softuni.bg/certificates/"> Link </a>|
+|<a href="https://softuni.bg/" > - Fundamentals in Mathematics </a>|<a href="https://github.com/AniSoft/SoftUni"> Exercises </a>|<a href="https://softuni.bg/certificates/details/135858/3fc6bd6f"> Link </a>|

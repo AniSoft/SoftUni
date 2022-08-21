@@ -13,7 +13,7 @@
 |<a href="https://softuni.bg/trainings/courses" > **[ Entry Module ]** </a>|  
 |<a href="https://softuni.bg/"> - Programming Basics - Go </a>|<a href="https://github.com/AniSoft/SoftUni"> Exercises </a>|<a href="https://softuni.bg/certificates/details/127959/6f2906c2"> Link</a>|
 |<a href="https://softuni.bg/"> - Programming Basics - JavaScript </a>|<a href="https://github.com/AniSoft/SoftUni"> Exercises </a>|<a href="https://softuni.bg/certificates/details/102192/fce688e6"> Link </a>|
-|<a href="https://softuni.bg/"> - Programming Basics - Python </a>|<a href="https://github.com/AniSoft/SoftUni"> Exercises </a>|<a href="https://softuni.bg/certificates/"> Link </a>| 
+|<a href="https://softuni.bg/"> - Programming Basics - Python </a>|<a href="https://github.com/AniSoft/SoftUni"> Exercises </a>|<a href="https://softuni.bg/certificates/details/71973/ac18edc1"> Link </a>| 
 |<a href="https://softuni.bg/trainings/courses" > **[ Fundamentals Module ]** </a>|  
 |<a href="https://softuni.bg/" > - Programming Fundamentals - JavaScript </a>|<a href="https://github.com/AniSoft/SoftUni"> Exercises </a>|<a href="https://softuni.bg/certificates/details/111122/f99090d3"> Link </a>|
 |<a href="https://softuni.bg/" > - Programming Fundamentals - Python</a>|<a href="https://github.com/AniSoft/SoftUni"> Exercises </a>|<a href="https://softuni.bg/certificates/details/79168/af7de648"> Link </a>|

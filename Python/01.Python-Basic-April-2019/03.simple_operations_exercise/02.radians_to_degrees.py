@@ -1,0 +1,11 @@
+# import math
+#
+# radians = float(input())
+# degrees = radians * 180 / math.pi
+# print(round(degrees))
+
+from math import pi
+
+radians = float(input())
+degrees = radians * 180 / pi
+print(round(degrees))

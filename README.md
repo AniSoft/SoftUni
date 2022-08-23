@@ -15,7 +15,7 @@
 |<a href="https://softuni.bg/"> - Programming Basics - JavaScript </a>|<a href="https://github.com/AniSoft/SoftUni/tree/main/JavaScript/01.JavaScript-Basic-February-2021"> Exercises </a>|<a href="https://softuni.bg/certificates/details/102192/fce688e6"> Link </a>|
 |<a href="https://softuni.bg/"> - Programming Basics - Python </a>|<a href="https://github.com/AniSoft/SoftUni/tree/main/Python/01.Python-Basic-April-2019"> Exercises </a>|<a href="https://softuni.bg/certificates/details/71973/ac18edc1"> Link </a>| 
 |<a href="https://softuni.bg/trainings/courses" > **[ Fundamentals Module ]** </a>|  
-|<a href="https://softuni.bg/" > - Programming Fundamentals - JavaScript </a>|<a href="https://github.com/AniSoft/SoftUni"> Exercises </a>|<a href="https://softuni.bg/certificates/details/111122/f99090d3"> Link </a>|
+|<a href="https://softuni.bg/" > - Programming Fundamentals - JavaScript </a>|<a href="https://github.com/AniSoft/SoftUni/tree/main/JavaScript/02.JavaScript-Fundamentals-May-2021"> Exercises </a>|<a href="https://softuni.bg/certificates/details/111122/f99090d3"> Link </a>|
 |<a href="https://softuni.bg/" > - Programming Fundamentals - Python</a>|<a href="https://github.com/AniSoft/SoftUni"> Exercises </a>|<a href="https://softuni.bg/certificates/details/79168/af7de648"> Link </a>|
 |<a href="https://softuni.bg/trainings/courses" > **[ Professional Modules ]** </a>|  
 |<a href="https://softuni.bg/trainings/courses" > **JavaScript Web Developer** </a>|  
